@@ -2,9 +2,9 @@
 a simple screen recorder with python
 ## instalation
 > ### pyatuogui
-pip install pyautogui
+``` pip install pyautogui ```
 > ### cv2
-pip install opencv-python
+``` pip install opencv-python ```
 > ### numpy
 numpy is already installed on python <br>
 ## How it works? 
