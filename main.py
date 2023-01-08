@@ -9,6 +9,6 @@ while True:
     color = cv2.cvtColor(frame , cv2.COLOR_BGR2RGB)
     video.write(color)
     cv2.imshow("recording" , color)
-    if cv2.waitKey(1) == ord('exit'):break
+    if cv2.waitKey(1) == ord('e'):break
 video.release()
 cv2.destroyAllWindows()
